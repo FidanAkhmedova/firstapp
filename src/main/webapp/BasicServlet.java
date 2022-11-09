@@ -14,10 +14,5 @@ public class BasicServlet extends HttpServlet {
         logger.info("New GET request");
         resp.getWriter().write("New GET request");
     }
-//    @Override
-//    protected void doPost(HttpServletRequest req, HttpServletResponse resp)
-//            throws ServletException, IOException {
-//        logger.info("New POST request");
-//        resp.getWriter().printf("<h1>New POST request</h1>");
-//    }
+
 }
