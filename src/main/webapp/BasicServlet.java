@@ -15,5 +15,4 @@ public class BasicServlet extends HttpServlet {
         resp.getWriter().write("New GET request");
     }
 
-
 }
