@@ -12,6 +12,7 @@ http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
 <!--    <servlet-name>BasicServlet</servlet-name>-->
 <!--    <url-pattern>/basic</url-pattern>-->
 <!--  </servlet-mapping>-->
+
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
 
